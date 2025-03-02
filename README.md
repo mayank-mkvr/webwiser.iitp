@@ -7,7 +7,7 @@ Imagine you're prepping for a weekend gaming marathon. You don't want to waste t
 
 ## Installation & Usage
 
-1.  **Clone the Repo:** `git clone webwiser.iitp`
+1.  **Clone the Repo:** `git clone [webwiser.iitp](https://github.com/mayank-mkvr/webwiser.iitp.git)`
 2.  **Open `index.html`:** Just open the `index.html` file in your favorite browser.
 3.  **Explore:** Navigate through the intuitive interface to check out the games.
 
