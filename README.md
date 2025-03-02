@@ -7,7 +7,7 @@ Imagine you're prepping for a weekend gaming marathon. You don't want to waste t
 
 ## Installation & Usage
 
-1.  **Clone the Repo:** `git clone [your-repo-url]`
+1.  **Clone the Repo:** `git clone README.md`
 2.  **Open `index.html`:** Just open the `index.html` file in your favorite browser.
 3.  **Explore:** Navigate through the intuitive interface to check out the games.
 
