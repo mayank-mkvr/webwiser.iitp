@@ -1,4 +1,4 @@
-# YankHub - Your Game Store, Simplified.
+# YankHub - Your Game Store
 
 Tired of game stores looking like a digital junkyard? Yeah, us too. YankHub is your sleek, no-BS game store. Clean UI, quick views, just the games you want, fast. Built by a student, for students. Because who has time for clutter?
 
@@ -8,7 +8,7 @@ Late night, assignment done, need to de-stress with a game? YankHub gets you the
 
 ## Installation & Usage
 
-1.  `git clone [your-repo-url]`
+1.  `git clone`
 2.  Open `index.html` in browser.
 3.  Browse.
 
